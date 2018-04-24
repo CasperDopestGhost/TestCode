@@ -1,0 +1,9 @@
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\bin\Debug\netcoreapp2.0\Homes.deps.json
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\bin\Debug\netcoreapp2.0\Homes.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\bin\Debug\netcoreapp2.0\Homes.pdb
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\obj\Debug\netcoreapp2.0\Homes.csprojResolveAssemblyReference.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\obj\Debug\netcoreapp2.0\Homes.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\obj\Debug\netcoreapp2.0\Homes.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\obj\Debug\netcoreapp2.0\Homes.AssemblyInfo.cs
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\obj\Debug\netcoreapp2.0\Homes.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\Homes\obj\Debug\netcoreapp2.0\Homes.pdb

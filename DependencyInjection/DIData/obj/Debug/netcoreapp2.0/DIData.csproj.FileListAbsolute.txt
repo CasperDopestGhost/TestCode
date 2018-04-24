@@ -1,0 +1,9 @@
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\bin\Debug\netcoreapp2.0\DIData.deps.json
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\bin\Debug\netcoreapp2.0\DIData.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\bin\Debug\netcoreapp2.0\DIData.pdb
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\obj\Debug\netcoreapp2.0\DIData.csprojResolveAssemblyReference.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\obj\Debug\netcoreapp2.0\DIData.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\obj\Debug\netcoreapp2.0\DIData.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\obj\Debug\netcoreapp2.0\DIData.AssemblyInfo.cs
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\obj\Debug\netcoreapp2.0\DIData.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DIData\obj\Debug\netcoreapp2.0\DIData.pdb

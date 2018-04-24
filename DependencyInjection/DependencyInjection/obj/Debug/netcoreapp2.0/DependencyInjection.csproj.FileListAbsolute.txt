@@ -1,0 +1,15 @@
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.deps.json
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.json
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.dev.json
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.pdb
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DIData.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DIData.pdb
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\Homes.dll
+C:\Users\Meyer\Documents\Visual Studio 2017\Projects\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\Homes.pdb
